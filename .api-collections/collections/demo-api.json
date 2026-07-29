@@ -1,1 +1,1 @@
-{"id":"demo-api","name":"demo-api","requests":[]}
+{"id":"demo-api","name":"demo-api","requests":[{"id":"get-get","name":"GET get","method":"GET","url":"https://httpbin.org/get","headers":{},"body":null,"sortOrder":0}]}
