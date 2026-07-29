@@ -1,1 +1,1 @@
-{"id":"testing","name":"testing","requests":[]}
+{"id":"testing","name":"testing","requests":[{"id":"get-get","name":"GET get","method":"GET","url":"https://httpbin.org/get","headers":{},"body":null,"sortOrder":0}]}
