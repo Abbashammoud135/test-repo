@@ -1,1 +1,1 @@
-{"id":"gfbdbgfgbgd","name":"gfbdbgfgbgd","requests":[]}
+{"id":"gfbdbgfgbgd","name":"gfbdbgfgbgd","requests":[{"id":"get-posts-1","name":"GET posts/1","method":"GET","url":"https://jsonplaceholder.typicode.com/posts/1","headers":{},"body":null,"sortOrder":0}]}
