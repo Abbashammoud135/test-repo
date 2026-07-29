@@ -1,1 +1,1 @@
-{"id":"new-collection","name":"new collection","requests":[]}
+{"id":"new-collection","name":"new collection","requests":[{"id":"get-ff","name":"GET ff","method":"GET","url":"ff","headers":{},"body":null,"sortOrder":0}]}
